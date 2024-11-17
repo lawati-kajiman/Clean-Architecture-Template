@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Kajiman</authors>
     <description>Api layer for Clean Architecture template in .NET</description>
-    <repository type="git" commit="6f33b0132bcc48d2c07a4969f0d66497cce8ef6f" />
+    <repository type="git" commit="a37080dcbc13eaea9c1830578d3838a43ba6a2f0" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Application" version="1.0.0" exclude="Build,Analyzers" />
