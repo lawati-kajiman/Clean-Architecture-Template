@@ -1,0 +1,5 @@
+C:\Users\kabdu\OneDrive\Desktop\Projects\packages\clean-architecture-template\obj\Release\net8.0\CleanArchitectureTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kabdu\OneDrive\Desktop\Projects\packages\clean-architecture-template\obj\Release\net8.0\CleanArchitectureTemplate.AssemblyInfoInputs.cache
+C:\Users\kabdu\OneDrive\Desktop\Projects\packages\clean-architecture-template\obj\Release\net8.0\CleanArchitectureTemplate.AssemblyInfo.cs
+C:\Users\kabdu\OneDrive\Desktop\Projects\packages\clean-architecture-template\obj\Release\net8.0\CleanArchitectureTemplate.csproj.CoreCompileInputs.cache
+C:\Users\kabdu\OneDrive\Desktop\Projects\packages\clean-architecture-template\obj\Release\net8.0\CleanArchitectureTemplate.sourcelink.json

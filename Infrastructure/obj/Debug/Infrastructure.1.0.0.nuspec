@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Infrastructure</id>
+    <version>1.0.0</version>
+    <authors>Kajiman</authors>
+    <description>Infrastructure layer for Clean Architecture template in .NET</description>
+    <repository type="git" commit="6f33b0132bcc48d2c07a4969f0d66497cce8ef6f" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Application" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Domain" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\kabdu\OneDrive\Desktop\Projects\packages\clean-architecture-template\Infrastructure\bin\Debug\net8.0\Infrastructure.dll" target="lib\net8.0\Infrastructure.dll" />
+  </files>
+</package>

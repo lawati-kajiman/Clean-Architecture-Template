@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Domain</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Kajiman</Authors>
+    <Company>WaterflowTechnology</Company>
+    <Description>Core layer for Clean Architecture template in .NET</Description>
+</PropertyGroup>
+
+
+</Project>
